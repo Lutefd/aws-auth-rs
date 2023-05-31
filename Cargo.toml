@@ -1,0 +1,11 @@
+[package]
+name = "rust-auth-aws-tst"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+actix-web = "4.0"
+jsonwebtoken = "8.0"
+serde = "1.0"
+serde_json = "1.0"
+chrono = "0.4"
